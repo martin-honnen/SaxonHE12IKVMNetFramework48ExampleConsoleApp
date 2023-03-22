@@ -1,1 +1,1 @@
-# SaxonHE12IKVMNetFramework48ExampleConsoleApp
+# .NET framework 4.8 console app to use XSLT 3.0 with IKVM cross-compiled Saxon HE 12.1 from Maven
