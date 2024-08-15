@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="SaxonHE12s9apiExtensions" Version="12.1.0" />
-    <MavenReference Include="net.sf.saxon:Saxon-HE" Version="12.1" />
+    <PackageReference Include="SaxonHE12s9apiExtensions" Version="12.5.9.1" />
+    
   </ItemGroup>
 
 </Project>
